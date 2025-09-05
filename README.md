@@ -9,11 +9,11 @@
 
 ## 👨🏾‍💻 About Me  
 
-Hi, I’m **Kingsley Okoh** — a passionate **Backend Developer** dedicated to building efficient, scalable, and user-friendly systems.  
+Hi, I'm **Kingsley Okoh**,  a passionate **Backend Developer** dedicated to building efficient, scalable, and user-friendly systems.  
 
 I work primarily with **Python (FastAPI, Django, Flask)**, **PostgreSQL**, **SQLAlchemy**, and **Docker**, but I also have experience with **Node.js, Express.js, and MongoDB**. I enjoy solving real-world problems with clean backend architectures and collaborating on projects that have real impact.  
 
-I’m also passionate about **open source, mentorship, and community building**, and I regularly share knowledge through documentation and peer learning.  
+I'm also passionate about **open source, mentorship, and community building**, and I regularly share knowledge through documentation and peer learning.  
 
 ---
 
@@ -22,7 +22,7 @@ I’m also passionate about **open source, mentorship, and community building**,
 - 🎓 Currently studying at **AltSchool Africa – School of Software Engineering (Class of 2024)**.  
 - 🌱 Learning **Advanced Python, FastAPI, and Cloud technologies (AWS)** to strengthen my backend expertise.  
 - 💼 Open to: **Backend Engineer, Software Engineer (Junior/Intern), or Open Source Collaboration**.  
-- 🛠️ Recent Projects: Event Management API, Sales Management Backend, Social Media-style API ([check repos here](https://github.com/Mr-kings042)).  
+- 🛠️ Recent Projects: Event Management API, Sales Management Backend, Social Media-style API ([check repos here](https://github.com/Mr-kings042?tab=repositories)).  
 - 📫 Reach me at: **okohkings042@gmail.com**  
 
 ---
