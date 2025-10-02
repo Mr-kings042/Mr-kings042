@@ -11,7 +11,7 @@
 
 Hi, I'm **Kingsley Okoh**,  a passionate **Backend Developer** dedicated to building efficient, scalable, and user-friendly systems.  
 
-I work primarily with **Python (FastAPI, Django, Flask)**, **PostgreSQL**, **SQLAlchemy**, and **Docker**, but I also have experience with **Node.js, Express.js, and MongoDB**. I enjoy solving real-world problems with clean backend architectures and collaborating on projects that have real impact.  
+I work primarily with **Python (FastAPI)**, **PostgreSQL**, **SQLAlchemy**, and **Docker**, but I also have experience with **Node.js, Express.js, and MongoDB**. I enjoy solving real-world problems with clean backend architectures and collaborating on projects that have real impact.  
 
 I'm also passionate about **open source, mentorship, and community building**, and I regularly share knowledge through documentation and peer learning.  
 
